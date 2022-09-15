@@ -5,8 +5,8 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C</code>
-<code>📦 Tech stack: node.js</code>
+<code>🧑‍💻 Languages: HTML, CSS, JavaScript, C</code>
+<code>📦 Tech stack: frontend</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@sol_n_tse](https://telegram.me/sol_n_tse)</code>
 <code>📫 [vadimulanovskiy@gmail.com](mailto:vadimulanovskiy@gmail.com)</code>
